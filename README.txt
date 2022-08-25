@@ -1,13 +1,13 @@
 
 TITLE: 
-Personal - 100% Fully Responsive Free HTML5 Bootstrap Template
+Personal - 100% Fully Responsive HTML5-CSS3
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by Fernando-cidade
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+linkedin: https://www.linkedin.com/in/fernando-s-cidade-28268b104
+Twitter:  https://twitter.com/FernandoStard
+whatsapp: https://wa.me/message/TT6C436YG76XD1
 
 
 CREDITS:
@@ -40,4 +40,5 @@ jQuery Waypoint
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
 Easy Pie Chart
-https://github.com/rendro/easy-pie-chart
+https://github.com/rendro/easy-pie-chart <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+
