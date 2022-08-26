@@ -1,6 +1,6 @@
 
 TITLE: 
-Personal - 100% Fully Responsive HTML5-CSS3
+Personal - Fernando-cidade Template
 
 AUTHOR:
 DESIGNED & DEVELOPED by Fernando-cidade
